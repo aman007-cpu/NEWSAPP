@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KHABRE/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2385" />
+        <entry key="..\:/KHABRE/app/src/main/res/drawable/splashscreengradient.xml" value="0.2385" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/activity_splashscreen.xml" value="0.23229166666666667" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/activity_web_view.xml" value="0.23229166666666667" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/entertainmentfragment.xml" value="0.23229166666666667" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/healthfragment.xml" value="0.23229166666666667" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/homefragment.xml" value="0.23229166666666667" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/layout_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/sciencefragment.xml" value="0.23229166666666667" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/splashscreen.xml" value="0.23229166666666667" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/sportsfragment.xml" value="0.23229166666666667" />
+        <entry key="..\:/KHABRE/app/src/main/res/layout/technologyfragment.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
